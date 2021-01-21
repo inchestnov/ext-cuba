@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<menu-config xmlns="http://schemas.haulmont.com/cuba/menu.xsd">
+    <menu id="application-extcuba" insertBefore="administration" caption="mainMsg://menu_config.application-extcuba">
+        <item screen="extcuba_DemoScreen" caption="mainMsg://menu_config.extcuba_DemoScreen"/>
+    </menu>
+</menu-config>
